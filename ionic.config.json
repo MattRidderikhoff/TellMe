@@ -1,0 +1,7 @@
+{
+  "name": "TellMe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
