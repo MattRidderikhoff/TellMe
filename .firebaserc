@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tell-me-f472e": {
+      "hosting": {
+        "app": [
+          "tell-me-f472e"
+        ]
+      }
+    }
+  }
+}
